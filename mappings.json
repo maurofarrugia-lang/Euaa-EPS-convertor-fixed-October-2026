@@ -1,0 +1,3912 @@
+{
+  "version": "2026-10-12-fast-track-reg-1.3.4",
+  "source": "EPS Dictionaries.xlsx",
+  "entries": [
+    {
+      "field": "AGE",
+      "rawValue": "(0) - UNKNOWN",
+      "key": "AGE|(0) - UNKNOWN",
+      "epsCode": "_U"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "(1) - 0-13",
+      "key": "AGE|(1) - 0-13",
+      "epsCode": "Y0T13"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "(2) - 14-17",
+      "key": "AGE|(2) - 14-17",
+      "epsCode": "Y14T17"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "(3) - 18-34",
+      "key": "AGE|(3) - 18-34",
+      "epsCode": "Y18T34"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "(4) - 35-64",
+      "key": "AGE|(4) - 35-64",
+      "epsCode": "Y35T64"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "(5) - 65 AND OVER",
+      "key": "AGE|(5) - 65 AND OVER",
+      "epsCode": "Y_GE65"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "(5) - 65+",
+      "key": "AGE|(5) - 65+",
+      "epsCode": "Y_GE65"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "0-13",
+      "key": "AGE|0-13",
+      "epsCode": "Y0T13"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "14-17",
+      "key": "AGE|14-17",
+      "epsCode": "Y14T17"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "18-34",
+      "key": "AGE|18-34",
+      "epsCode": "Y18T34"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "35-64",
+      "key": "AGE|35-64",
+      "epsCode": "Y35T64"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "65 AND OVER",
+      "key": "AGE|65 AND OVER",
+      "epsCode": "Y_GE65"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "Unknown",
+      "key": "AGE|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "< SPECIFY >",
+      "key": "APPLICANT|< SPECIFY >",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "Accompanied minor",
+      "key": "APPLICANT|Accompanied minor",
+      "epsCode": "AM"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "NOT APPLICABLE",
+      "key": "APPLICANT|NOT APPLICABLE",
+      "epsCode": "_Z"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "Unaccompanied minor",
+      "key": "APPLICANT|Unaccompanied minor",
+      "epsCode": "UAM"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "Unknown",
+      "key": "APPLICANT|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_GEN",
+      "rawValue": "FIRST APPLICATION",
+      "key": "APPLICATION_GEN|FIRST APPLICATION",
+      "epsCode": "FIRST_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN",
+      "rawValue": "FIRST TIME APPLICATION IN REPORTING COUNTRY",
+      "key": "APPLICATION_GEN|FIRST TIME APPLICATION IN REPORTING COUNTRY",
+      "epsCode": "FIRST_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN",
+      "rawValue": "SUBSEQUENT APPLICATION",
+      "key": "APPLICATION_GEN|SUBSEQUENT APPLICATION",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN",
+      "rawValue": "SUBSEQUENT APPLICATION - FINAL DECISION IN REPORTING COUNTRY",
+      "key": "APPLICATION_GEN|SUBSEQUENT APPLICATION - FINAL DECISION IN REPORTING COUNTRY",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "AWAITING FIRST INSTANACE DECISION",
+      "key": "APPLICATION_STAGE|AWAITING FIRST INSTANACE DECISION",
+      "epsCode": "AW_FIRST"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "AWAITING FIRST INSTANCE DECISION",
+      "key": "APPLICATION_STAGE|AWAITING FIRST INSTANCE DECISION",
+      "epsCode": "AW_FIRST"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "Awaiting processing at first instance",
+      "key": "APPLICATION_STAGE|Awaiting processing at first instance",
+      "epsCode": "AW_FIRST"
+    },
+    {
+      "field": "CEAS_BACKLOG",
+      "rawValue": "Post-12 June 2026",
+      "key": "CEAS_BACKLOG|Post-12 June 2026",
+      "epsCode": "POST_JUN26"
+    },
+    {
+      "field": "CEAS_BACKLOG",
+      "rawValue": "Pre-12 June 2026",
+      "key": "CEAS_BACKLOG|Pre-12 June 2026",
+      "epsCode": "PRE_JUN26"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "< SPECIFY >",
+      "key": "CITIZENSHIP|< SPECIFY >",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Afghanistan",
+      "key": "CITIZENSHIP|Afghanistan",
+      "epsCode": "AF"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Albania",
+      "key": "CITIZENSHIP|Albania",
+      "epsCode": "AL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Algeria",
+      "key": "CITIZENSHIP|Algeria",
+      "epsCode": "DZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Angola",
+      "key": "CITIZENSHIP|Angola",
+      "epsCode": "AO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Argentina",
+      "key": "CITIZENSHIP|Argentina",
+      "epsCode": "AR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Armenia",
+      "key": "CITIZENSHIP|Armenia",
+      "epsCode": "AM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Azerbaijan",
+      "key": "CITIZENSHIP|Azerbaijan",
+      "epsCode": "AZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bangladesh",
+      "key": "CITIZENSHIP|Bangladesh",
+      "epsCode": "BD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Belarus",
+      "key": "CITIZENSHIP|Belarus",
+      "epsCode": "BY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Benin",
+      "key": "CITIZENSHIP|Benin",
+      "epsCode": "BJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Botswana",
+      "key": "CITIZENSHIP|Botswana",
+      "epsCode": "BW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Brazil",
+      "key": "CITIZENSHIP|Brazil",
+      "epsCode": "BR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Burkina Faso",
+      "key": "CITIZENSHIP|Burkina Faso",
+      "epsCode": "BF"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Burundi",
+      "key": "CITIZENSHIP|Burundi",
+      "epsCode": "BI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Cabo Verde",
+      "key": "CITIZENSHIP|Cabo Verde",
+      "epsCode": "CV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Cameroon",
+      "key": "CITIZENSHIP|Cameroon",
+      "epsCode": "CM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CAPE VERDE",
+      "key": "CITIZENSHIP|CAPE VERDE",
+      "epsCode": "CV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Central African Republic",
+      "key": "CITIZENSHIP|Central African Republic",
+      "epsCode": "CF"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Chad",
+      "key": "CITIZENSHIP|Chad",
+      "epsCode": "TD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Chile",
+      "key": "CITIZENSHIP|Chile",
+      "epsCode": "CL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CHINA INCLUDING HONG KONG",
+      "key": "CITIZENSHIP|CHINA INCLUDING HONG KONG",
+      "epsCode": "CN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Colombia",
+      "key": "CITIZENSHIP|Colombia",
+      "epsCode": "CO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Comoros",
+      "key": "CITIZENSHIP|Comoros",
+      "epsCode": "KM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "COTE D'IVOIRE",
+      "key": "CITIZENSHIP|COTE D'IVOIRE",
+      "epsCode": "CI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Cuba",
+      "key": "CITIZENSHIP|Cuba",
+      "epsCode": "CU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Czechia",
+      "key": "CITIZENSHIP|Czechia",
+      "epsCode": "CZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CÔTE D'IVOIRE",
+      "key": "CITIZENSHIP|CÔTE D'IVOIRE",
+      "epsCode": "CI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Democratic Republic of the Congo",
+      "key": "CITIZENSHIP|Democratic Republic of the Congo",
+      "epsCode": "CD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Egypt",
+      "key": "CITIZENSHIP|Egypt",
+      "epsCode": "EG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Eritrea",
+      "key": "CITIZENSHIP|Eritrea",
+      "epsCode": "ER"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Ethiopia",
+      "key": "CITIZENSHIP|Ethiopia",
+      "epsCode": "ET"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GAMBIA",
+      "key": "CITIZENSHIP|GAMBIA",
+      "epsCode": "GM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Gambia, The",
+      "key": "CITIZENSHIP|Gambia, The",
+      "epsCode": "GM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Georgia",
+      "key": "CITIZENSHIP|Georgia",
+      "epsCode": "GE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Ghana",
+      "key": "CITIZENSHIP|Ghana",
+      "epsCode": "GH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Guinea",
+      "key": "CITIZENSHIP|Guinea",
+      "epsCode": "GN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Guinea-Bissau",
+      "key": "CITIZENSHIP|Guinea-Bissau",
+      "epsCode": "GW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Honduras",
+      "key": "CITIZENSHIP|Honduras",
+      "epsCode": "HN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "India",
+      "key": "CITIZENSHIP|India",
+      "epsCode": "IN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Iran",
+      "key": "CITIZENSHIP|Iran",
+      "epsCode": "IR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Iraq",
+      "key": "CITIZENSHIP|Iraq",
+      "epsCode": "IQ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Israel",
+      "key": "CITIZENSHIP|Israel",
+      "epsCode": "IL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Jamaica",
+      "key": "CITIZENSHIP|Jamaica",
+      "epsCode": "JM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Jordan",
+      "key": "CITIZENSHIP|Jordan",
+      "epsCode": "JO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Kazakhstan",
+      "key": "CITIZENSHIP|Kazakhstan",
+      "epsCode": "KZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Kenya",
+      "key": "CITIZENSHIP|Kenya",
+      "epsCode": "KE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KOSOVO",
+      "key": "CITIZENSHIP|KOSOVO",
+      "epsCode": "XK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Kuwait",
+      "key": "CITIZENSHIP|Kuwait",
+      "epsCode": "KW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Kyrgyzstan",
+      "key": "CITIZENSHIP|Kyrgyzstan",
+      "epsCode": "KG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Lebanon",
+      "key": "CITIZENSHIP|Lebanon",
+      "epsCode": "LB"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Liberia",
+      "key": "CITIZENSHIP|Liberia",
+      "epsCode": "LR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Libya",
+      "key": "CITIZENSHIP|Libya",
+      "epsCode": "LY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Mali",
+      "key": "CITIZENSHIP|Mali",
+      "epsCode": "ML"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Mexico",
+      "key": "CITIZENSHIP|Mexico",
+      "epsCode": "MX"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Morocco",
+      "key": "CITIZENSHIP|Morocco",
+      "epsCode": "MA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Myanmar/Burma",
+      "key": "CITIZENSHIP|Myanmar/Burma",
+      "epsCode": "MM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Nepal",
+      "key": "CITIZENSHIP|Nepal",
+      "epsCode": "NP"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Niger",
+      "key": "CITIZENSHIP|Niger",
+      "epsCode": "NE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Nigeria",
+      "key": "CITIZENSHIP|Nigeria",
+      "epsCode": "NG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "North Macedonia",
+      "key": "CITIZENSHIP|North Macedonia",
+      "epsCode": "MK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Norway",
+      "key": "CITIZENSHIP|Norway",
+      "epsCode": "NO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Pakistan",
+      "key": "CITIZENSHIP|Pakistan",
+      "epsCode": "PK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PALESTINE",
+      "key": "CITIZENSHIP|PALESTINE",
+      "epsCode": "PS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Panama",
+      "key": "CITIZENSHIP|Panama",
+      "epsCode": "PA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Peru",
+      "key": "CITIZENSHIP|Peru",
+      "epsCode": "PE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Russia",
+      "key": "CITIZENSHIP|Russia",
+      "epsCode": "RU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Senegal",
+      "key": "CITIZENSHIP|Senegal",
+      "epsCode": "SN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Serbia",
+      "key": "CITIZENSHIP|Serbia",
+      "epsCode": "RS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Sierra Leone",
+      "key": "CITIZENSHIP|Sierra Leone",
+      "epsCode": "SL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Somalia",
+      "key": "CITIZENSHIP|Somalia",
+      "epsCode": "SO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "South Sudan",
+      "key": "CITIZENSHIP|South Sudan",
+      "epsCode": "SS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Sri Lanka",
+      "key": "CITIZENSHIP|Sri Lanka",
+      "epsCode": "LK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Stateless",
+      "key": "CITIZENSHIP|Stateless",
+      "epsCode": "STLS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Sudan",
+      "key": "CITIZENSHIP|Sudan",
+      "epsCode": "SD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Syria",
+      "key": "CITIZENSHIP|Syria",
+      "epsCode": "SY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Togo",
+      "key": "CITIZENSHIP|Togo",
+      "epsCode": "TG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Tunisia",
+      "key": "CITIZENSHIP|Tunisia",
+      "epsCode": "TN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TURKEY",
+      "key": "CITIZENSHIP|TURKEY",
+      "epsCode": "TR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Uganda",
+      "key": "CITIZENSHIP|Uganda",
+      "epsCode": "UG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Ukraine",
+      "key": "CITIZENSHIP|Ukraine",
+      "epsCode": "UA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "United Arab Emirates",
+      "key": "CITIZENSHIP|United Arab Emirates",
+      "epsCode": "AE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "United Kingdom",
+      "key": "CITIZENSHIP|United Kingdom",
+      "epsCode": "UK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "United States",
+      "key": "CITIZENSHIP|United States",
+      "epsCode": "US"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Unknown",
+      "key": "CITIZENSHIP|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Venezuela",
+      "key": "CITIZENSHIP|Venezuela",
+      "epsCode": "VE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Yemen",
+      "key": "CITIZENSHIP|Yemen",
+      "epsCode": "YE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Zambia",
+      "key": "CITIZENSHIP|Zambia",
+      "epsCode": "ZM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Zimbabwe",
+      "key": "CITIZENSHIP|Zimbabwe",
+      "epsCode": "ZW"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "Administrative closure",
+      "key": "CLOSURE|Administrative closure",
+      "epsCode": "ADM"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "AMMR Relocation closure",
+      "key": "CLOSURE|AMMR Relocation closure",
+      "epsCode": "AMMR_REL"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "AMMR responsibility closure",
+      "key": "CLOSURE|AMMR responsibility closure",
+      "epsCode": "AMMR_RESP"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "Dublin closure",
+      "key": "CLOSURE|Dublin closure",
+      "epsCode": "DUB_RESP"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "VSM relocation closure",
+      "key": "CLOSURE|VSM relocation closure",
+      "epsCode": "VSM_REL"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "AIR BCP",
+      "key": "LOCATION|AIR BCP",
+      "epsCode": "AIR_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "Air Border Crossing Point",
+      "key": "LOCATION|Air Border Crossing Point",
+      "epsCode": "AIR_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "Any location inside the reporting country",
+      "key": "LOCATION|Any location inside the reporting country",
+      "epsCode": "INLAND"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "BLUE BORDER",
+      "key": "LOCATION|BLUE BORDER",
+      "epsCode": "BLUE"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "GREEN BORDER",
+      "key": "LOCATION|GREEN BORDER",
+      "epsCode": "GREEN"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "INLAND",
+      "key": "LOCATION|INLAND",
+      "epsCode": "INLAND"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "LAND BCP",
+      "key": "LOCATION|LAND BCP",
+      "epsCode": "LAND_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "Land Border Crossing Point",
+      "key": "LOCATION|Land Border Crossing Point",
+      "epsCode": "LAND_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "SEA BCP",
+      "key": "LOCATION|SEA BCP",
+      "epsCode": "SEA_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "Sea Border Crossing Point",
+      "key": "LOCATION|Sea Border Crossing Point",
+      "epsCode": "SEA_BCP"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "ACCELERATED",
+      "key": "PROCEDURE|ACCELERATED",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "ACCELERATED PROCEDURE",
+      "key": "PROCEDURE|ACCELERATED PROCEDURE",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "ADMISSIBILITY",
+      "key": "PROCEDURE|ADMISSIBILITY",
+      "epsCode": "ADM"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "ASYLUM BORDER PROCEDURE",
+      "key": "PROCEDURE|ASYLUM BORDER PROCEDURE",
+      "epsCode": "ABP"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "BORDER",
+      "key": "PROCEDURE|BORDER",
+      "epsCode": "ABP"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "NORMAL",
+      "key": "PROCEDURE|NORMAL",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "REGULAR",
+      "key": "PROCEDURE|REGULAR",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "REGULAR PROCEDURE",
+      "key": "PROCEDURE|REGULAR PROCEDURE",
+      "epsCode": "REG"
+    },
+    {
+      "field": "SAR",
+      "rawValue": "N",
+      "key": "SAR|N",
+      "epsCode": "N"
+    },
+    {
+      "field": "SAR",
+      "rawValue": "No",
+      "key": "SAR|No",
+      "epsCode": "N"
+    },
+    {
+      "field": "SAR",
+      "rawValue": "Y",
+      "key": "SAR|Y",
+      "epsCode": "Y"
+    },
+    {
+      "field": "SAR",
+      "rawValue": "Yes",
+      "key": "SAR|Yes",
+      "epsCode": "Y"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "F",
+      "key": "SEX|F",
+      "epsCode": "F"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "FEMALE",
+      "key": "SEX|FEMALE",
+      "epsCode": "F"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "Females",
+      "key": "SEX|Females",
+      "epsCode": "F"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "M",
+      "key": "SEX|M",
+      "epsCode": "M"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "MALE",
+      "key": "SEX|MALE",
+      "epsCode": "M"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "Males",
+      "key": "SEX|Males",
+      "epsCode": "M"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "OTHER",
+      "key": "SEX|OTHER",
+      "epsCode": "_U"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "Unknown",
+      "key": "SEX|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PHILIPPINES",
+      "key": "CITIZENSHIP|PHILIPPINES",
+      "epsCode": "PH"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "AWAITING LODGING",
+      "key": "APPLICATION_STAGE|AWAITING LODGING",
+      "epsCode": "AW_LOD"
+    },
+    {
+      "field": "APPLICATION_GEN",
+      "rawValue": "SUBSEQUENT APPLICATION - FINAL DECISION IN APR BOUND MS",
+      "key": "APPLICATION_GEN|SUBSEQUENT APPLICATION - FINAL DECISION IN APR BOUND MS",
+      "epsCode": "SUBSEQ_APRMS"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "THP",
+      "key": "PROCEDURE|THP",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "THP PROCEDURE",
+      "key": "PROCEDURE|THP PROCEDURE",
+      "epsCode": "REG"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "LESS THAN 3 MONTHS",
+      "key": "DURATION|LESS THAN 3 MONTHS",
+      "epsCode": "M0T3"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "BETWEEN 3 AND 6 MONTHS",
+      "key": "DURATION|BETWEEN 3 AND 6 MONTHS",
+      "epsCode": "M3T6"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "BETWEEN 6 AND 12 MONTHS",
+      "key": "DURATION|BETWEEN 6 AND 12 MONTHS",
+      "epsCode": "M6T12"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "BETWEEN 12 AND 24 MONTHS",
+      "key": "DURATION|BETWEEN 12 AND 24 MONTHS",
+      "epsCode": "M12T24"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "BETWEEN 24 AND 36 MONTHS",
+      "key": "DURATION|BETWEEN 24 AND 36 MONTHS",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "BETWEEN 36 AND 48 MONTHS",
+      "key": "DURATION|BETWEEN 36 AND 48 MONTHS",
+      "epsCode": "M36T48"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "MORE THAN 48 MONTHS",
+      "key": "DURATION|MORE THAN 48 MONTHS",
+      "epsCode": "M_GT48"
+    },
+    {
+      "field": "DURATION",
+      "rawValue": "NOT APPLICABLE",
+      "key": "DURATION|NOT APPLICABLE",
+      "epsCode": "_Z"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "NEGATIVE",
+      "key": "DECISION|NEGATIVE",
+      "epsCode": "NEG"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "POSITIVE - REFUGEE STATUS UNDER GENEVA CONVENTION",
+      "key": "DECISION|POSITIVE - REFUGEE STATUS UNDER GENEVA CONVENTION",
+      "epsCode": "POS_RFG"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "POSITIVE - SUBSIDIARY PROTECTION",
+      "key": "DECISION|POSITIVE - SUBSIDIARY PROTECTION",
+      "epsCode": "POS_SPROT"
+    },
+    {
+      "field": "WITHDRAWAL_DECISION",
+      "rawValue": "EXPLICITLY WITHDRAWN",
+      "key": "WITHDRAWAL_DECISION|EXPLICITLY WITHDRAWN",
+      "epsCode": "EXPL"
+    },
+    {
+      "field": "WITHDRAWAL_DECISION",
+      "rawValue": "IMPLICITLY WITHDRAWN",
+      "key": "WITHDRAWAL_DECISION|IMPLICITLY WITHDRAWN",
+      "epsCode": "IMPL"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "ADULT APPLICANT",
+      "key": "APPLICANT|ADULT APPLICANT",
+      "epsCode": "_Z"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "_U",
+      "key": "CITIZENSHIP|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Andorra",
+      "key": "CITIZENSHIP|Andorra",
+      "epsCode": "AD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AD",
+      "key": "CITIZENSHIP|AD",
+      "epsCode": "AD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AE",
+      "key": "CITIZENSHIP|AE",
+      "epsCode": "AE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AF",
+      "key": "CITIZENSHIP|AF",
+      "epsCode": "AF"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Antigua and Barbuda",
+      "key": "CITIZENSHIP|Antigua and Barbuda",
+      "epsCode": "AG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AG",
+      "key": "CITIZENSHIP|AG",
+      "epsCode": "AG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AL",
+      "key": "CITIZENSHIP|AL",
+      "epsCode": "AL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AM",
+      "key": "CITIZENSHIP|AM",
+      "epsCode": "AM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AO",
+      "key": "CITIZENSHIP|AO",
+      "epsCode": "AO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AR",
+      "key": "CITIZENSHIP|AR",
+      "epsCode": "AR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Austria",
+      "key": "CITIZENSHIP|Austria",
+      "epsCode": "AT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AT",
+      "key": "CITIZENSHIP|AT",
+      "epsCode": "AT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Australia",
+      "key": "CITIZENSHIP|Australia",
+      "epsCode": "AU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AU",
+      "key": "CITIZENSHIP|AU",
+      "epsCode": "AU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "AZ",
+      "key": "CITIZENSHIP|AZ",
+      "epsCode": "AZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bosnia and Herzegovina",
+      "key": "CITIZENSHIP|Bosnia and Herzegovina",
+      "epsCode": "BA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BA",
+      "key": "CITIZENSHIP|BA",
+      "epsCode": "BA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Barbados",
+      "key": "CITIZENSHIP|Barbados",
+      "epsCode": "BB"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BB",
+      "key": "CITIZENSHIP|BB",
+      "epsCode": "BB"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BD",
+      "key": "CITIZENSHIP|BD",
+      "epsCode": "BD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Belgium",
+      "key": "CITIZENSHIP|Belgium",
+      "epsCode": "BE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BE",
+      "key": "CITIZENSHIP|BE",
+      "epsCode": "BE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BF",
+      "key": "CITIZENSHIP|BF",
+      "epsCode": "BF"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bulgaria",
+      "key": "CITIZENSHIP|Bulgaria",
+      "epsCode": "BG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BG",
+      "key": "CITIZENSHIP|BG",
+      "epsCode": "BG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bahrain",
+      "key": "CITIZENSHIP|Bahrain",
+      "epsCode": "BH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BH",
+      "key": "CITIZENSHIP|BH",
+      "epsCode": "BH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BI",
+      "key": "CITIZENSHIP|BI",
+      "epsCode": "BI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BJ",
+      "key": "CITIZENSHIP|BJ",
+      "epsCode": "BJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Brunei Darussalam",
+      "key": "CITIZENSHIP|Brunei Darussalam",
+      "epsCode": "BN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BN",
+      "key": "CITIZENSHIP|BN",
+      "epsCode": "BN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bolivia",
+      "key": "CITIZENSHIP|Bolivia",
+      "epsCode": "BO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BO",
+      "key": "CITIZENSHIP|BO",
+      "epsCode": "BO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BR",
+      "key": "CITIZENSHIP|BR",
+      "epsCode": "BR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bahamas",
+      "key": "CITIZENSHIP|Bahamas",
+      "epsCode": "BS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BS",
+      "key": "CITIZENSHIP|BS",
+      "epsCode": "BS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Bhutan",
+      "key": "CITIZENSHIP|Bhutan",
+      "epsCode": "BT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BT",
+      "key": "CITIZENSHIP|BT",
+      "epsCode": "BT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BW",
+      "key": "CITIZENSHIP|BW",
+      "epsCode": "BW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BY",
+      "key": "CITIZENSHIP|BY",
+      "epsCode": "BY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Belize",
+      "key": "CITIZENSHIP|Belize",
+      "epsCode": "BZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "BZ",
+      "key": "CITIZENSHIP|BZ",
+      "epsCode": "BZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Canada",
+      "key": "CITIZENSHIP|Canada",
+      "epsCode": "CA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CA",
+      "key": "CITIZENSHIP|CA",
+      "epsCode": "CA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CD",
+      "key": "CITIZENSHIP|CD",
+      "epsCode": "CD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CF",
+      "key": "CITIZENSHIP|CF",
+      "epsCode": "CF"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Congo",
+      "key": "CITIZENSHIP|Congo",
+      "epsCode": "CG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CG",
+      "key": "CITIZENSHIP|CG",
+      "epsCode": "CG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Switzerland",
+      "key": "CITIZENSHIP|Switzerland",
+      "epsCode": "CH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CH",
+      "key": "CITIZENSHIP|CH",
+      "epsCode": "CH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Côte d’Ivoire",
+      "key": "CITIZENSHIP|Côte d’Ivoire",
+      "epsCode": "CI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CI",
+      "key": "CITIZENSHIP|CI",
+      "epsCode": "CI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Cook Islands",
+      "key": "CITIZENSHIP|Cook Islands",
+      "epsCode": "CK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CK",
+      "key": "CITIZENSHIP|CK",
+      "epsCode": "CK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CL",
+      "key": "CITIZENSHIP|CL",
+      "epsCode": "CL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CM",
+      "key": "CITIZENSHIP|CM",
+      "epsCode": "CM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "China",
+      "key": "CITIZENSHIP|China",
+      "epsCode": "CN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CN",
+      "key": "CITIZENSHIP|CN",
+      "epsCode": "CN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CO",
+      "key": "CITIZENSHIP|CO",
+      "epsCode": "CO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Costa Rica",
+      "key": "CITIZENSHIP|Costa Rica",
+      "epsCode": "CR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CR",
+      "key": "CITIZENSHIP|CR",
+      "epsCode": "CR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CU",
+      "key": "CITIZENSHIP|CU",
+      "epsCode": "CU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CV",
+      "key": "CITIZENSHIP|CV",
+      "epsCode": "CV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Cyprus",
+      "key": "CITIZENSHIP|Cyprus",
+      "epsCode": "CY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CY",
+      "key": "CITIZENSHIP|CY",
+      "epsCode": "CY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "CZ",
+      "key": "CITIZENSHIP|CZ",
+      "epsCode": "CZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Germany",
+      "key": "CITIZENSHIP|Germany",
+      "epsCode": "DE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "DE",
+      "key": "CITIZENSHIP|DE",
+      "epsCode": "DE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Djibouti",
+      "key": "CITIZENSHIP|Djibouti",
+      "epsCode": "DJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "DJ",
+      "key": "CITIZENSHIP|DJ",
+      "epsCode": "DJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Denmark",
+      "key": "CITIZENSHIP|Denmark",
+      "epsCode": "DK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "DK",
+      "key": "CITIZENSHIP|DK",
+      "epsCode": "DK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Dominica",
+      "key": "CITIZENSHIP|Dominica",
+      "epsCode": "DM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "DM",
+      "key": "CITIZENSHIP|DM",
+      "epsCode": "DM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Dominican Republic",
+      "key": "CITIZENSHIP|Dominican Republic",
+      "epsCode": "DO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "DO",
+      "key": "CITIZENSHIP|DO",
+      "epsCode": "DO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "DZ",
+      "key": "CITIZENSHIP|DZ",
+      "epsCode": "DZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Ecuador",
+      "key": "CITIZENSHIP|Ecuador",
+      "epsCode": "EC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "EC",
+      "key": "CITIZENSHIP|EC",
+      "epsCode": "EC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Estonia",
+      "key": "CITIZENSHIP|Estonia",
+      "epsCode": "EE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "EE",
+      "key": "CITIZENSHIP|EE",
+      "epsCode": "EE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "EG",
+      "key": "CITIZENSHIP|EG",
+      "epsCode": "EG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Western Sahara",
+      "key": "CITIZENSHIP|Western Sahara",
+      "epsCode": "EH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "EH",
+      "key": "CITIZENSHIP|EH",
+      "epsCode": "EH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Greece",
+      "key": "CITIZENSHIP|Greece",
+      "epsCode": "EL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "EL",
+      "key": "CITIZENSHIP|EL",
+      "epsCode": "EL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ER",
+      "key": "CITIZENSHIP|ER",
+      "epsCode": "ER"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Spain",
+      "key": "CITIZENSHIP|Spain",
+      "epsCode": "ES"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ES",
+      "key": "CITIZENSHIP|ES",
+      "epsCode": "ES"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ET",
+      "key": "CITIZENSHIP|ET",
+      "epsCode": "ET"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Finland",
+      "key": "CITIZENSHIP|Finland",
+      "epsCode": "FI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "FI",
+      "key": "CITIZENSHIP|FI",
+      "epsCode": "FI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Fiji",
+      "key": "CITIZENSHIP|Fiji",
+      "epsCode": "FJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "FJ",
+      "key": "CITIZENSHIP|FJ",
+      "epsCode": "FJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Federated States of Micronesia",
+      "key": "CITIZENSHIP|Federated States of Micronesia",
+      "epsCode": "FM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "FM",
+      "key": "CITIZENSHIP|FM",
+      "epsCode": "FM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "France",
+      "key": "CITIZENSHIP|France",
+      "epsCode": "FR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "FR",
+      "key": "CITIZENSHIP|FR",
+      "epsCode": "FR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Gabon",
+      "key": "CITIZENSHIP|Gabon",
+      "epsCode": "GA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GA",
+      "key": "CITIZENSHIP|GA",
+      "epsCode": "GA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Grenada",
+      "key": "CITIZENSHIP|Grenada",
+      "epsCode": "GD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GD",
+      "key": "CITIZENSHIP|GD",
+      "epsCode": "GD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GE",
+      "key": "CITIZENSHIP|GE",
+      "epsCode": "GE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GH",
+      "key": "CITIZENSHIP|GH",
+      "epsCode": "GH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GM",
+      "key": "CITIZENSHIP|GM",
+      "epsCode": "GM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GN",
+      "key": "CITIZENSHIP|GN",
+      "epsCode": "GN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Equatorial Guinea",
+      "key": "CITIZENSHIP|Equatorial Guinea",
+      "epsCode": "GQ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GQ",
+      "key": "CITIZENSHIP|GQ",
+      "epsCode": "GQ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Guatemala",
+      "key": "CITIZENSHIP|Guatemala",
+      "epsCode": "GT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GT",
+      "key": "CITIZENSHIP|GT",
+      "epsCode": "GT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GW",
+      "key": "CITIZENSHIP|GW",
+      "epsCode": "GW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Guyana",
+      "key": "CITIZENSHIP|Guyana",
+      "epsCode": "GY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "GY",
+      "key": "CITIZENSHIP|GY",
+      "epsCode": "GY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "HN",
+      "key": "CITIZENSHIP|HN",
+      "epsCode": "HN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Croatia",
+      "key": "CITIZENSHIP|Croatia",
+      "epsCode": "HR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "HR",
+      "key": "CITIZENSHIP|HR",
+      "epsCode": "HR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Haiti",
+      "key": "CITIZENSHIP|Haiti",
+      "epsCode": "HT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "HT",
+      "key": "CITIZENSHIP|HT",
+      "epsCode": "HT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Hungary",
+      "key": "CITIZENSHIP|Hungary",
+      "epsCode": "HU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "HU",
+      "key": "CITIZENSHIP|HU",
+      "epsCode": "HU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Indonesia",
+      "key": "CITIZENSHIP|Indonesia",
+      "epsCode": "ID"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ID",
+      "key": "CITIZENSHIP|ID",
+      "epsCode": "ID"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Ireland",
+      "key": "CITIZENSHIP|Ireland",
+      "epsCode": "IE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IE",
+      "key": "CITIZENSHIP|IE",
+      "epsCode": "IE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IL",
+      "key": "CITIZENSHIP|IL",
+      "epsCode": "IL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IN",
+      "key": "CITIZENSHIP|IN",
+      "epsCode": "IN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IQ",
+      "key": "CITIZENSHIP|IQ",
+      "epsCode": "IQ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IR",
+      "key": "CITIZENSHIP|IR",
+      "epsCode": "IR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Iceland",
+      "key": "CITIZENSHIP|Iceland",
+      "epsCode": "IS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IS",
+      "key": "CITIZENSHIP|IS",
+      "epsCode": "IS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Italy",
+      "key": "CITIZENSHIP|Italy",
+      "epsCode": "IT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "IT",
+      "key": "CITIZENSHIP|IT",
+      "epsCode": "IT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "JM",
+      "key": "CITIZENSHIP|JM",
+      "epsCode": "JM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "JO",
+      "key": "CITIZENSHIP|JO",
+      "epsCode": "JO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Japan",
+      "key": "CITIZENSHIP|Japan",
+      "epsCode": "JP"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "JP",
+      "key": "CITIZENSHIP|JP",
+      "epsCode": "JP"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KE",
+      "key": "CITIZENSHIP|KE",
+      "epsCode": "KE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KG",
+      "key": "CITIZENSHIP|KG",
+      "epsCode": "KG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Cambodia",
+      "key": "CITIZENSHIP|Cambodia",
+      "epsCode": "KH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KH",
+      "key": "CITIZENSHIP|KH",
+      "epsCode": "KH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Kiribati",
+      "key": "CITIZENSHIP|Kiribati",
+      "epsCode": "KI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KI",
+      "key": "CITIZENSHIP|KI",
+      "epsCode": "KI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KM",
+      "key": "CITIZENSHIP|KM",
+      "epsCode": "KM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Saint Kitts and Nevis",
+      "key": "CITIZENSHIP|Saint Kitts and Nevis",
+      "epsCode": "KN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KN",
+      "key": "CITIZENSHIP|KN",
+      "epsCode": "KN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "North Korea",
+      "key": "CITIZENSHIP|North Korea",
+      "epsCode": "KP"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KP",
+      "key": "CITIZENSHIP|KP",
+      "epsCode": "KP"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "South Korea",
+      "key": "CITIZENSHIP|South Korea",
+      "epsCode": "KR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KR",
+      "key": "CITIZENSHIP|KR",
+      "epsCode": "KR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KW",
+      "key": "CITIZENSHIP|KW",
+      "epsCode": "KW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "KZ",
+      "key": "CITIZENSHIP|KZ",
+      "epsCode": "KZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Laos",
+      "key": "CITIZENSHIP|Laos",
+      "epsCode": "LA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LA",
+      "key": "CITIZENSHIP|LA",
+      "epsCode": "LA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LB",
+      "key": "CITIZENSHIP|LB",
+      "epsCode": "LB"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Saint Lucia",
+      "key": "CITIZENSHIP|Saint Lucia",
+      "epsCode": "LC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LC",
+      "key": "CITIZENSHIP|LC",
+      "epsCode": "LC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Liechtenstein",
+      "key": "CITIZENSHIP|Liechtenstein",
+      "epsCode": "LI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LI",
+      "key": "CITIZENSHIP|LI",
+      "epsCode": "LI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LK",
+      "key": "CITIZENSHIP|LK",
+      "epsCode": "LK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LR",
+      "key": "CITIZENSHIP|LR",
+      "epsCode": "LR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Lesotho",
+      "key": "CITIZENSHIP|Lesotho",
+      "epsCode": "LS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LS",
+      "key": "CITIZENSHIP|LS",
+      "epsCode": "LS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Lithuania",
+      "key": "CITIZENSHIP|Lithuania",
+      "epsCode": "LT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LT",
+      "key": "CITIZENSHIP|LT",
+      "epsCode": "LT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Luxembourg",
+      "key": "CITIZENSHIP|Luxembourg",
+      "epsCode": "LU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LU",
+      "key": "CITIZENSHIP|LU",
+      "epsCode": "LU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Latvia",
+      "key": "CITIZENSHIP|Latvia",
+      "epsCode": "LV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LV",
+      "key": "CITIZENSHIP|LV",
+      "epsCode": "LV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "LY",
+      "key": "CITIZENSHIP|LY",
+      "epsCode": "LY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MA",
+      "key": "CITIZENSHIP|MA",
+      "epsCode": "MA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Monaco",
+      "key": "CITIZENSHIP|Monaco",
+      "epsCode": "MC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MC",
+      "key": "CITIZENSHIP|MC",
+      "epsCode": "MC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Moldova",
+      "key": "CITIZENSHIP|Moldova",
+      "epsCode": "MD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MD",
+      "key": "CITIZENSHIP|MD",
+      "epsCode": "MD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Montenegro",
+      "key": "CITIZENSHIP|Montenegro",
+      "epsCode": "ME"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ME",
+      "key": "CITIZENSHIP|ME",
+      "epsCode": "ME"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Madagascar",
+      "key": "CITIZENSHIP|Madagascar",
+      "epsCode": "MG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MG",
+      "key": "CITIZENSHIP|MG",
+      "epsCode": "MG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Marshall Islands",
+      "key": "CITIZENSHIP|Marshall Islands",
+      "epsCode": "MH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MH",
+      "key": "CITIZENSHIP|MH",
+      "epsCode": "MH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MK",
+      "key": "CITIZENSHIP|MK",
+      "epsCode": "MK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ML",
+      "key": "CITIZENSHIP|ML",
+      "epsCode": "ML"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MM",
+      "key": "CITIZENSHIP|MM",
+      "epsCode": "MM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Mongolia",
+      "key": "CITIZENSHIP|Mongolia",
+      "epsCode": "MN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MN",
+      "key": "CITIZENSHIP|MN",
+      "epsCode": "MN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Mauritania",
+      "key": "CITIZENSHIP|Mauritania",
+      "epsCode": "MR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MR",
+      "key": "CITIZENSHIP|MR",
+      "epsCode": "MR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Malta",
+      "key": "CITIZENSHIP|Malta",
+      "epsCode": "MT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MT",
+      "key": "CITIZENSHIP|MT",
+      "epsCode": "MT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Mauritius",
+      "key": "CITIZENSHIP|Mauritius",
+      "epsCode": "MU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MU",
+      "key": "CITIZENSHIP|MU",
+      "epsCode": "MU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Maldives",
+      "key": "CITIZENSHIP|Maldives",
+      "epsCode": "MV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MV",
+      "key": "CITIZENSHIP|MV",
+      "epsCode": "MV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Malawi",
+      "key": "CITIZENSHIP|Malawi",
+      "epsCode": "MW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MW",
+      "key": "CITIZENSHIP|MW",
+      "epsCode": "MW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MX",
+      "key": "CITIZENSHIP|MX",
+      "epsCode": "MX"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Malaysia",
+      "key": "CITIZENSHIP|Malaysia",
+      "epsCode": "MY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MY",
+      "key": "CITIZENSHIP|MY",
+      "epsCode": "MY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Mozambique",
+      "key": "CITIZENSHIP|Mozambique",
+      "epsCode": "MZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "MZ",
+      "key": "CITIZENSHIP|MZ",
+      "epsCode": "MZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Namibia",
+      "key": "CITIZENSHIP|Namibia",
+      "epsCode": "NA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NA",
+      "key": "CITIZENSHIP|NA",
+      "epsCode": "NA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NE",
+      "key": "CITIZENSHIP|NE",
+      "epsCode": "NE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NG",
+      "key": "CITIZENSHIP|NG",
+      "epsCode": "NG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Nicaragua",
+      "key": "CITIZENSHIP|Nicaragua",
+      "epsCode": "NI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NI",
+      "key": "CITIZENSHIP|NI",
+      "epsCode": "NI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Netherlands",
+      "key": "CITIZENSHIP|Netherlands",
+      "epsCode": "NL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NL",
+      "key": "CITIZENSHIP|NL",
+      "epsCode": "NL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NO",
+      "key": "CITIZENSHIP|NO",
+      "epsCode": "NO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NP",
+      "key": "CITIZENSHIP|NP",
+      "epsCode": "NP"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Nauru",
+      "key": "CITIZENSHIP|Nauru",
+      "epsCode": "NR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NR",
+      "key": "CITIZENSHIP|NR",
+      "epsCode": "NR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "New Zealand",
+      "key": "CITIZENSHIP|New Zealand",
+      "epsCode": "NZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "NZ",
+      "key": "CITIZENSHIP|NZ",
+      "epsCode": "NZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Oman",
+      "key": "CITIZENSHIP|Oman",
+      "epsCode": "OM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "OM",
+      "key": "CITIZENSHIP|OM",
+      "epsCode": "OM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PA",
+      "key": "CITIZENSHIP|PA",
+      "epsCode": "PA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PE",
+      "key": "CITIZENSHIP|PE",
+      "epsCode": "PE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Papua New Guinea",
+      "key": "CITIZENSHIP|Papua New Guinea",
+      "epsCode": "PG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PG",
+      "key": "CITIZENSHIP|PG",
+      "epsCode": "PG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PH",
+      "key": "CITIZENSHIP|PH",
+      "epsCode": "PH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PK",
+      "key": "CITIZENSHIP|PK",
+      "epsCode": "PK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Poland",
+      "key": "CITIZENSHIP|Poland",
+      "epsCode": "PL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PL",
+      "key": "CITIZENSHIP|PL",
+      "epsCode": "PL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Palestine*",
+      "key": "CITIZENSHIP|Palestine*",
+      "epsCode": "PS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PS",
+      "key": "CITIZENSHIP|PS",
+      "epsCode": "PS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Portugal",
+      "key": "CITIZENSHIP|Portugal",
+      "epsCode": "PT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PT",
+      "key": "CITIZENSHIP|PT",
+      "epsCode": "PT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Palau",
+      "key": "CITIZENSHIP|Palau",
+      "epsCode": "PW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PW",
+      "key": "CITIZENSHIP|PW",
+      "epsCode": "PW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Paraguay",
+      "key": "CITIZENSHIP|Paraguay",
+      "epsCode": "PY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "PY",
+      "key": "CITIZENSHIP|PY",
+      "epsCode": "PY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Qatar",
+      "key": "CITIZENSHIP|Qatar",
+      "epsCode": "QA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "QA",
+      "key": "CITIZENSHIP|QA",
+      "epsCode": "QA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Recognised non-citizens",
+      "key": "CITIZENSHIP|Recognised non-citizens",
+      "epsCode": "RNC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "RNC",
+      "key": "CITIZENSHIP|RNC",
+      "epsCode": "RNC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Romania",
+      "key": "CITIZENSHIP|Romania",
+      "epsCode": "RO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "RO",
+      "key": "CITIZENSHIP|RO",
+      "epsCode": "RO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "RS",
+      "key": "CITIZENSHIP|RS",
+      "epsCode": "RS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "RU",
+      "key": "CITIZENSHIP|RU",
+      "epsCode": "RU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Rwanda",
+      "key": "CITIZENSHIP|Rwanda",
+      "epsCode": "RW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "RW",
+      "key": "CITIZENSHIP|RW",
+      "epsCode": "RW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Saudi Arabia",
+      "key": "CITIZENSHIP|Saudi Arabia",
+      "epsCode": "SA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SA",
+      "key": "CITIZENSHIP|SA",
+      "epsCode": "SA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Solomon Islands",
+      "key": "CITIZENSHIP|Solomon Islands",
+      "epsCode": "SB"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SB",
+      "key": "CITIZENSHIP|SB",
+      "epsCode": "SB"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Seychelles",
+      "key": "CITIZENSHIP|Seychelles",
+      "epsCode": "SC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SC",
+      "key": "CITIZENSHIP|SC",
+      "epsCode": "SC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SD",
+      "key": "CITIZENSHIP|SD",
+      "epsCode": "SD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Sweden",
+      "key": "CITIZENSHIP|Sweden",
+      "epsCode": "SE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SE",
+      "key": "CITIZENSHIP|SE",
+      "epsCode": "SE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Singapore",
+      "key": "CITIZENSHIP|Singapore",
+      "epsCode": "SG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SG",
+      "key": "CITIZENSHIP|SG",
+      "epsCode": "SG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Slovenia",
+      "key": "CITIZENSHIP|Slovenia",
+      "epsCode": "SI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SI",
+      "key": "CITIZENSHIP|SI",
+      "epsCode": "SI"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Slovakia",
+      "key": "CITIZENSHIP|Slovakia",
+      "epsCode": "SK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SK",
+      "key": "CITIZENSHIP|SK",
+      "epsCode": "SK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SL",
+      "key": "CITIZENSHIP|SL",
+      "epsCode": "SL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "San Marino",
+      "key": "CITIZENSHIP|San Marino",
+      "epsCode": "SM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SM",
+      "key": "CITIZENSHIP|SM",
+      "epsCode": "SM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SN",
+      "key": "CITIZENSHIP|SN",
+      "epsCode": "SN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SO",
+      "key": "CITIZENSHIP|SO",
+      "epsCode": "SO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Suriname",
+      "key": "CITIZENSHIP|Suriname",
+      "epsCode": "SR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SR",
+      "key": "CITIZENSHIP|SR",
+      "epsCode": "SR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SS",
+      "key": "CITIZENSHIP|SS",
+      "epsCode": "SS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "São Tomé and Príncipe",
+      "key": "CITIZENSHIP|São Tomé and Príncipe",
+      "epsCode": "ST"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ST",
+      "key": "CITIZENSHIP|ST",
+      "epsCode": "ST"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "STLS",
+      "key": "CITIZENSHIP|STLS",
+      "epsCode": "STLS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "El Salvador",
+      "key": "CITIZENSHIP|El Salvador",
+      "epsCode": "SV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SV",
+      "key": "CITIZENSHIP|SV",
+      "epsCode": "SV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SY",
+      "key": "CITIZENSHIP|SY",
+      "epsCode": "SY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Eswatini",
+      "key": "CITIZENSHIP|Eswatini",
+      "epsCode": "SZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "SZ",
+      "key": "CITIZENSHIP|SZ",
+      "epsCode": "SZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TD",
+      "key": "CITIZENSHIP|TD",
+      "epsCode": "TD"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TG",
+      "key": "CITIZENSHIP|TG",
+      "epsCode": "TG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Thailand",
+      "key": "CITIZENSHIP|Thailand",
+      "epsCode": "TH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TH",
+      "key": "CITIZENSHIP|TH",
+      "epsCode": "TH"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Tajikistan",
+      "key": "CITIZENSHIP|Tajikistan",
+      "epsCode": "TJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TJ",
+      "key": "CITIZENSHIP|TJ",
+      "epsCode": "TJ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Timor-Leste",
+      "key": "CITIZENSHIP|Timor-Leste",
+      "epsCode": "TL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TL",
+      "key": "CITIZENSHIP|TL",
+      "epsCode": "TL"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Turkmenistan",
+      "key": "CITIZENSHIP|Turkmenistan",
+      "epsCode": "TM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TM",
+      "key": "CITIZENSHIP|TM",
+      "epsCode": "TM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TN",
+      "key": "CITIZENSHIP|TN",
+      "epsCode": "TN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Tonga",
+      "key": "CITIZENSHIP|Tonga",
+      "epsCode": "TO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TO",
+      "key": "CITIZENSHIP|TO",
+      "epsCode": "TO"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Türkiye",
+      "key": "CITIZENSHIP|Türkiye",
+      "epsCode": "TR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TR",
+      "key": "CITIZENSHIP|TR",
+      "epsCode": "TR"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Trinidad and Tobago",
+      "key": "CITIZENSHIP|Trinidad and Tobago",
+      "epsCode": "TT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TT",
+      "key": "CITIZENSHIP|TT",
+      "epsCode": "TT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Tuvalu",
+      "key": "CITIZENSHIP|Tuvalu",
+      "epsCode": "TV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TV",
+      "key": "CITIZENSHIP|TV",
+      "epsCode": "TV"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Taiwan",
+      "key": "CITIZENSHIP|Taiwan",
+      "epsCode": "TW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TW",
+      "key": "CITIZENSHIP|TW",
+      "epsCode": "TW"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Tanzania",
+      "key": "CITIZENSHIP|Tanzania",
+      "epsCode": "TZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "TZ",
+      "key": "CITIZENSHIP|TZ",
+      "epsCode": "TZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "UA",
+      "key": "CITIZENSHIP|UA",
+      "epsCode": "UA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "UG",
+      "key": "CITIZENSHIP|UG",
+      "epsCode": "UG"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "UK",
+      "key": "CITIZENSHIP|UK",
+      "epsCode": "UK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "British overseas countries and territories",
+      "key": "CITIZENSHIP|British overseas countries and territories",
+      "epsCode": "UK_OCT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "UK_OCT",
+      "key": "CITIZENSHIP|UK_OCT",
+      "epsCode": "UK_OCT"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "US",
+      "key": "CITIZENSHIP|US",
+      "epsCode": "US"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Uruguay",
+      "key": "CITIZENSHIP|Uruguay",
+      "epsCode": "UY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "UY",
+      "key": "CITIZENSHIP|UY",
+      "epsCode": "UY"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Uzbekistan",
+      "key": "CITIZENSHIP|Uzbekistan",
+      "epsCode": "UZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "UZ",
+      "key": "CITIZENSHIP|UZ",
+      "epsCode": "UZ"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Holy See",
+      "key": "CITIZENSHIP|Holy See",
+      "epsCode": "VA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "VA",
+      "key": "CITIZENSHIP|VA",
+      "epsCode": "VA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Saint Vincent and the Grenadines",
+      "key": "CITIZENSHIP|Saint Vincent and the Grenadines",
+      "epsCode": "VC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "VC",
+      "key": "CITIZENSHIP|VC",
+      "epsCode": "VC"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "VE",
+      "key": "CITIZENSHIP|VE",
+      "epsCode": "VE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Viet Nam",
+      "key": "CITIZENSHIP|Viet Nam",
+      "epsCode": "VN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "VN",
+      "key": "CITIZENSHIP|VN",
+      "epsCode": "VN"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Vanuatu",
+      "key": "CITIZENSHIP|Vanuatu",
+      "epsCode": "VU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "VU",
+      "key": "CITIZENSHIP|VU",
+      "epsCode": "VU"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Samoa",
+      "key": "CITIZENSHIP|Samoa",
+      "epsCode": "WS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "WS",
+      "key": "CITIZENSHIP|WS",
+      "epsCode": "WS"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "Kosovo*",
+      "key": "CITIZENSHIP|Kosovo*",
+      "epsCode": "XK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "XK",
+      "key": "CITIZENSHIP|XK",
+      "epsCode": "XK"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "YE",
+      "key": "CITIZENSHIP|YE",
+      "epsCode": "YE"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "South Africa",
+      "key": "CITIZENSHIP|South Africa",
+      "epsCode": "ZA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ZA",
+      "key": "CITIZENSHIP|ZA",
+      "epsCode": "ZA"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ZM",
+      "key": "CITIZENSHIP|ZM",
+      "epsCode": "ZM"
+    },
+    {
+      "field": "CITIZENSHIP",
+      "rawValue": "ZW",
+      "key": "CITIZENSHIP|ZW",
+      "epsCode": "ZW"
+    },
+    {
+      "field": "SEX",
+      "rawValue": "_U",
+      "key": "SEX|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "From 0 to 13 years",
+      "key": "AGE|From 0 to 13 years",
+      "epsCode": "Y0T13"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "Y0T13",
+      "key": "AGE|Y0T13",
+      "epsCode": "Y0T13"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "From 14 to 17 years",
+      "key": "AGE|From 14 to 17 years",
+      "epsCode": "Y14T17"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "Y14T17",
+      "key": "AGE|Y14T17",
+      "epsCode": "Y14T17"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "From 18 to 34 years",
+      "key": "AGE|From 18 to 34 years",
+      "epsCode": "Y18T34"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "Y18T34",
+      "key": "AGE|Y18T34",
+      "epsCode": "Y18T34"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "From 35 to 64 years",
+      "key": "AGE|From 35 to 64 years",
+      "epsCode": "Y35T64"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "Y35T64",
+      "key": "AGE|Y35T64",
+      "epsCode": "Y35T64"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "65 years or over",
+      "key": "AGE|65 years or over",
+      "epsCode": "Y_GE65"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "Y_GE65",
+      "key": "AGE|Y_GE65",
+      "epsCode": "Y_GE65"
+    },
+    {
+      "field": "AGE",
+      "rawValue": "_U",
+      "key": "AGE|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "Not applicable (to be used for adults)",
+      "key": "APPLICANT|Not applicable (to be used for adults)",
+      "epsCode": "_Z"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "_Z",
+      "key": "APPLICANT|_Z",
+      "epsCode": "_Z"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "UAM",
+      "key": "APPLICANT|UAM",
+      "epsCode": "UAM"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "AM",
+      "key": "APPLICANT|AM",
+      "epsCode": "AM"
+    },
+    {
+      "field": "APPLICANT",
+      "rawValue": "_U",
+      "key": "APPLICANT|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "AIR_BCP",
+      "key": "LOCATION|AIR_BCP",
+      "epsCode": "AIR_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "LAND_BCP",
+      "key": "LOCATION|LAND_BCP",
+      "epsCode": "LAND_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "SEA_BCP",
+      "key": "LOCATION|SEA_BCP",
+      "epsCode": "SEA_BCP"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "All external EU water borders",
+      "key": "LOCATION|All external EU water borders",
+      "epsCode": "BLUE"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "BLUE",
+      "key": "LOCATION|BLUE",
+      "epsCode": "BLUE"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "Border line outside land BCP areas",
+      "key": "LOCATION|Border line outside land BCP areas",
+      "epsCode": "GREEN"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "GREEN",
+      "key": "LOCATION|GREEN",
+      "epsCode": "GREEN"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "Unknown",
+      "key": "LOCATION|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "LOCATION",
+      "rawValue": "_U",
+      "key": "LOCATION|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "DATA_STATUS",
+      "rawValue": "EPS data",
+      "key": "DATA_STATUS|EPS data",
+      "epsCode": "EPS"
+    },
+    {
+      "field": "DATA_STATUS",
+      "rawValue": "EPS",
+      "key": "DATA_STATUS|EPS",
+      "epsCode": "EPS"
+    },
+    {
+      "field": "DATA_STATUS",
+      "rawValue": "EU statistics data",
+      "key": "DATA_STATUS|EU statistics data",
+      "epsCode": "EU"
+    },
+    {
+      "field": "DATA_STATUS",
+      "rawValue": "EU",
+      "key": "DATA_STATUS|EU",
+      "epsCode": "EU"
+    },
+    {
+      "field": "SAR",
+      "rawValue": "Unknown",
+      "key": "SAR|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "SAR",
+      "rawValue": "_U",
+      "key": "SAR|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "AW_LOD",
+      "key": "APPLICATION_STAGE|AW_LOD",
+      "epsCode": "AW_LOD"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "AW_FIRST",
+      "key": "APPLICATION_STAGE|AW_FIRST",
+      "epsCode": "AW_FIRST"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "Awaiting processing in appeal or review",
+      "key": "APPLICATION_STAGE|Awaiting processing in appeal or review",
+      "epsCode": "AW_FINAL"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "AW_FINAL",
+      "key": "APPLICATION_STAGE|AW_FINAL",
+      "epsCode": "AW_FINAL"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "Unknown",
+      "key": "APPLICATION_STAGE|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_STAGE",
+      "rawValue": "_U",
+      "key": "APPLICATION_STAGE|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CEAS_BACKLOG",
+      "rawValue": "PRE_JUN26",
+      "key": "CEAS_BACKLOG|PRE_JUN26",
+      "epsCode": "PRE_JUN26"
+    },
+    {
+      "field": "CEAS_BACKLOG",
+      "rawValue": "POST_JUN26",
+      "key": "CEAS_BACKLOG|POST_JUN26",
+      "epsCode": "POST_JUN26"
+    },
+    {
+      "field": "CEAS_BACKLOG",
+      "rawValue": "Unknown",
+      "key": "CEAS_BACKLOG|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CEAS_BACKLOG",
+      "rawValue": "_U",
+      "key": "CEAS_BACKLOG|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "Explicit-Before lodging",
+      "key": "WITHDRAW|Explicit-Before lodging",
+      "epsCode": "EXP_BL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "EXP_BL",
+      "key": "WITHDRAW|EXP_BL",
+      "epsCode": "EXP_BL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "Explicit-After lodging",
+      "key": "WITHDRAW|Explicit-After lodging",
+      "epsCode": "EXP_AL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "EXP_AL",
+      "key": "WITHDRAW|EXP_AL",
+      "epsCode": "EXP_AL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "Implicit-Before lodging",
+      "key": "WITHDRAW|Implicit-Before lodging",
+      "epsCode": "IMP_BL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "IMP_BL",
+      "key": "WITHDRAW|IMP_BL",
+      "epsCode": "IMP_BL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "Implicit-After lodging",
+      "key": "WITHDRAW|Implicit-After lodging",
+      "epsCode": "IMP_AL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "IMP_AL",
+      "key": "WITHDRAW|IMP_AL",
+      "epsCode": "IMP_AL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "Unknown",
+      "key": "WITHDRAW|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "_U",
+      "key": "WITHDRAW|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "DUB_RESP",
+      "key": "CLOSURE|DUB_RESP",
+      "epsCode": "DUB_RESP"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "AMMR_RESP",
+      "key": "CLOSURE|AMMR_RESP",
+      "epsCode": "AMMR_RESP"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "VSM_REL",
+      "key": "CLOSURE|VSM_REL",
+      "epsCode": "VSM_REL"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "AMMR_REL",
+      "key": "CLOSURE|AMMR_REL",
+      "epsCode": "AMMR_REL"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "ADM",
+      "key": "CLOSURE|ADM",
+      "epsCode": "ADM"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "Unknown",
+      "key": "CLOSURE|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "CLOSURE",
+      "rawValue": "_U",
+      "key": "CLOSURE|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "Asylum border procedure",
+      "key": "PROCEDURE_M123|Asylum border procedure",
+      "epsCode": "ABP"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "ABP",
+      "key": "PROCEDURE_M123|ABP",
+      "epsCode": "ABP"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "REGULAR PROCEDURE",
+      "key": "PROCEDURE_M123|REGULAR PROCEDURE",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "REG",
+      "key": "PROCEDURE_M123|REG",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "ACCELERATED PROCEDURE",
+      "key": "PROCEDURE_M123|ACCELERATED PROCEDURE",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "ACC",
+      "key": "PROCEDURE_M123|ACC",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "Unknown",
+      "key": "PROCEDURE_M123|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "_U",
+      "key": "PROCEDURE_M123|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "Asylum border procedure",
+      "key": "PROCEDURE_M456|Asylum border procedure",
+      "epsCode": "ABP"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "ABP",
+      "key": "PROCEDURE_M456|ABP",
+      "epsCode": "ABP"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "REGULAR PROCEDURE",
+      "key": "PROCEDURE_M456|REGULAR PROCEDURE",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "REG",
+      "key": "PROCEDURE_M456|REG",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "ACCELERATED PROCEDURE",
+      "key": "PROCEDURE_M456|ACCELERATED PROCEDURE",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "ACC",
+      "key": "PROCEDURE_M456|ACC",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "Admissibility",
+      "key": "PROCEDURE_M456|Admissibility",
+      "epsCode": "ADM"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "ADM",
+      "key": "PROCEDURE_M456|ADM",
+      "epsCode": "ADM"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "Unknown",
+      "key": "PROCEDURE_M456|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "_U",
+      "key": "PROCEDURE_M456|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "FIRST TIME APPLICATION IN REPORTING COUNTRY",
+      "key": "APPLICATION_GEN_M12|FIRST TIME APPLICATION IN REPORTING COUNTRY",
+      "epsCode": "FIRST_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "FIRST_REPMS",
+      "key": "APPLICATION_GEN_M12|FIRST_REPMS",
+      "epsCode": "FIRST_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "SUBSEQUENT APPLICATION - FINAL DECISION IN REPORTING COUNTRY",
+      "key": "APPLICATION_GEN_M12|SUBSEQUENT APPLICATION - FINAL DECISION IN REPORTING COUNTRY",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "SUBSEQ_REPMS",
+      "key": "APPLICATION_GEN_M12|SUBSEQ_REPMS",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "Unknown",
+      "key": "APPLICATION_GEN_M12|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "_U",
+      "key": "APPLICATION_GEN_M12|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "FIRST TIME APPLICATION IN APR-BOUND MS",
+      "key": "APPLICATION_GEN_M456|FIRST TIME APPLICATION IN APR-BOUND MS",
+      "epsCode": "FIRST_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "FIRST_APRMS",
+      "key": "APPLICATION_GEN_M456|FIRST_APRMS",
+      "epsCode": "FIRST_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "SUBSEQUENT APPLICATION - FINAL DECISION IN REPORTING COUNTRY",
+      "key": "APPLICATION_GEN_M456|SUBSEQUENT APPLICATION - FINAL DECISION IN REPORTING COUNTRY",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "SUBSEQ_REPMS",
+      "key": "APPLICATION_GEN_M456|SUBSEQ_REPMS",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "SUBSEQUENT APPLICATION - FINAL DECISION IN APR-BOUND MS",
+      "key": "APPLICATION_GEN_M456|SUBSEQUENT APPLICATION - FINAL DECISION IN APR-BOUND MS",
+      "epsCode": "SUBSEQ_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "SUBSEQ_APRMS",
+      "key": "APPLICATION_GEN_M456|SUBSEQ_APRMS",
+      "epsCode": "SUBSEQ_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "Further representation - Application not final in APR-bound MS",
+      "key": "APPLICATION_GEN_M456|Further representation - Application not final in APR-bound MS",
+      "epsCode": "FURTHER_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "FURTHER_APRMS",
+      "key": "APPLICATION_GEN_M456|FURTHER_APRMS",
+      "epsCode": "FURTHER_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "Unknown",
+      "key": "APPLICATION_GEN_M456|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "_U",
+      "key": "APPLICATION_GEN_M456|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "Less than 3 months",
+      "key": "DURATION_M3|Less than 3 months",
+      "epsCode": "M0T3"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M0T3",
+      "key": "DURATION_M3|M0T3",
+      "epsCode": "M0T3"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "Between 3 and 6 months",
+      "key": "DURATION_M3|Between 3 and 6 months",
+      "epsCode": "M3T6"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M3T6",
+      "key": "DURATION_M3|M3T6",
+      "epsCode": "M3T6"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "Between 6 and 12 months",
+      "key": "DURATION_M3|Between 6 and 12 months",
+      "epsCode": "M6T12"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M6T12",
+      "key": "DURATION_M3|M6T12",
+      "epsCode": "M6T12"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "Between 12 and 24 months",
+      "key": "DURATION_M3|Between 12 and 24 months",
+      "epsCode": "M12T24"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M12T24",
+      "key": "DURATION_M3|M12T24",
+      "epsCode": "M12T24"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "BETWEEN 24 AND 36 MONTHS",
+      "key": "DURATION_M3|BETWEEN 24 AND 36 MONTHS",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M24T36",
+      "key": "DURATION_M3|M24T36",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "Between 36 and 48 months",
+      "key": "DURATION_M3|Between 36 and 48 months",
+      "epsCode": "M36T48"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M36T48",
+      "key": "DURATION_M3|M36T48",
+      "epsCode": "M36T48"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "More than 48 months",
+      "key": "DURATION_M3|More than 48 months",
+      "epsCode": "M_GT48"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "M_GT48",
+      "key": "DURATION_M3|M_GT48",
+      "epsCode": "M_GT48"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "Less than 3 months",
+      "key": "DURATION_M5|Less than 3 months",
+      "epsCode": "M0T3"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "M0T3",
+      "key": "DURATION_M5|M0T3",
+      "epsCode": "M0T3"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "Between 3 and 6 months",
+      "key": "DURATION_M5|Between 3 and 6 months",
+      "epsCode": "M3T6"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "M3T6",
+      "key": "DURATION_M5|M3T6",
+      "epsCode": "M3T6"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "Between 6 and 12 months",
+      "key": "DURATION_M5|Between 6 and 12 months",
+      "epsCode": "M6T12"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "M6T12",
+      "key": "DURATION_M5|M6T12",
+      "epsCode": "M6T12"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "Between 12 and 24 months",
+      "key": "DURATION_M5|Between 12 and 24 months",
+      "epsCode": "M12T24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "M12T24",
+      "key": "DURATION_M5|M12T24",
+      "epsCode": "M12T24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "More than 24 months",
+      "key": "DURATION_M5|More than 24 months",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "M_GT24",
+      "key": "DURATION_M5|M_GT24",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "Unknown",
+      "key": "DURATION_M5|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "_U",
+      "key": "DURATION_M5|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "Geneva Convention status",
+      "key": "DECISION|Geneva Convention status",
+      "epsCode": "POS_RFG"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "POS_RFG",
+      "key": "DECISION|POS_RFG",
+      "epsCode": "POS_RFG"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "Subsidiary protection status",
+      "key": "DECISION|Subsidiary protection status",
+      "epsCode": "POS_SPROT"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "POS_SPROT",
+      "key": "DECISION|POS_SPROT",
+      "epsCode": "POS_SPROT"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "Other positive decisions",
+      "key": "DECISION|Other positive decisions",
+      "epsCode": "POS_OTH"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "POS_OTH",
+      "key": "DECISION|POS_OTH",
+      "epsCode": "POS_OTH"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "Under Determination",
+      "key": "DECISION|Under Determination",
+      "epsCode": "UND_DET"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "UND_DET",
+      "key": "DECISION|UND_DET",
+      "epsCode": "UND_DET"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "Unknown",
+      "key": "DECISION|Unknown",
+      "epsCode": "_U"
+    },
+    {
+      "field": "DECISION",
+      "rawValue": "_U",
+      "key": "DECISION|_U",
+      "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "NORMAL",
+      "key": "PROCEDURE_M123|NORMAL",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "NORMAL",
+      "key": "PROCEDURE_M456|NORMAL",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "REGULAR",
+      "key": "PROCEDURE_M123|REGULAR",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "REGULAR",
+      "key": "PROCEDURE_M456|REGULAR",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "THP",
+      "key": "PROCEDURE_M123|THP",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "THP",
+      "key": "PROCEDURE_M456|THP",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "THP PROCEDURE",
+      "key": "PROCEDURE_M123|THP PROCEDURE",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "THP PROCEDURE",
+      "key": "PROCEDURE_M456|THP PROCEDURE",
+      "epsCode": "REG"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "FIRST APPLICATION",
+      "key": "APPLICATION_GEN_M12|FIRST APPLICATION",
+      "epsCode": "FIRST_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M12",
+      "rawValue": "SUBSEQUENT APPLICATION",
+      "key": "APPLICATION_GEN_M12|SUBSEQUENT APPLICATION",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "FIRST APPLICATION",
+      "key": "APPLICATION_GEN_M456|FIRST APPLICATION",
+      "epsCode": "FIRST_APRMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "SUBSEQUENT APPLICATION",
+      "key": "APPLICATION_GEN_M456|SUBSEQUENT APPLICATION",
+      "epsCode": "SUBSEQ_REPMS"
+    },
+    {
+      "field": "APPLICATION_GEN_M456",
+      "rawValue": "SUBSEQUENT APPLICATION - FINAL DECISION IN APR BOUND MS",
+      "key": "APPLICATION_GEN_M456|SUBSEQUENT APPLICATION - FINAL DECISION IN APR BOUND MS",
+      "epsCode": "SUBSEQ_APRMS"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "EXPLICITLY WITHDRAWN",
+      "key": "WITHDRAW|EXPLICITLY WITHDRAWN",
+      "epsCode": "EXP_BL"
+    },
+    {
+      "field": "WITHDRAW",
+      "rawValue": "IMPLICITLY WITHDRAWN",
+      "key": "WITHDRAW|IMPLICITLY WITHDRAWN",
+      "epsCode": "IMP_BL"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "NOT APPLICABLE",
+      "key": "DURATION_M3|NOT APPLICABLE",
+      "epsCode": "_Z"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "NOT APPLICABLE",
+      "key": "DURATION_M5|NOT APPLICABLE",
+      "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "ACCELERATED",
+      "key": "PROCEDURE_M123|ACCELERATED",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "ACCELERATED",
+      "key": "PROCEDURE_M456|ACCELERATED",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "BETWEEN 24 AND 36MONTHS",
+      "key": "DURATION_M3|BETWEEN 24 AND 36MONTHS",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "BETWEEN 24 AND 36 MONTH",
+      "key": "DURATION_M3|BETWEEN 24 AND 36 MONTH",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "BETWEEN 24 AND 36 MONTHS",
+      "key": "DURATION_M5|BETWEEN 24 AND 36 MONTHS",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "BETWEEN 24 AND 36MONTHS",
+      "key": "DURATION_M5|BETWEEN 24 AND 36MONTHS",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "BETWEEN 24 AND 36 MONTH",
+      "key": "DURATION_M5|BETWEEN 24 AND 36 MONTH",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE_M123|FAST TRACK VULNERABILITY",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE_M456|FAST TRACK VULNERABILITY",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE|FAST TRACK VULNERABILITY",
+      "epsCode": "REG"
+    }
+  ]
+}

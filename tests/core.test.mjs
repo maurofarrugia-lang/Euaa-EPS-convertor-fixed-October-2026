@@ -6,3 +6,7 @@ test('minor adult warning and EU status',()=>{const r=convertRows([{Citizenship:
 test('M4 exists',()=>assert.ok(schemas.M4));
 
 test('dictionary wording for M4-M6',()=>{assert.equal(mapValue('APPLICATION_GEN_M456','FIRST APPLICATION',map,[],1),'FIRST_APRMS');assert.equal(mapValue('WITHDRAW','EXPLICITLY WITHDRAWN',map,[],1),'EXP_BL');assert.equal(schemas.M4.outputs.find(x=>x[0]==='WITHDRAW')[2],'WITHDRAW')});
+
+test('M2 current NASMS layout works',()=>{assert.deepEqual(schemas.M2.required,['Citizenship','Age','Sex','Status of Minor','Type of Procedure','Type of Application','Following Search and Rescure','Count']);const r=convertRows([{Citizenship:'PHILIPPINES',Age:'(3) - 18-34',Sex:'MALE','Status of Minor':'Not applicable','Type of Procedure':'ACCELERATED','Type of Application':'FIRST APPLICATION','Following Search and Rescure':'NO',Count:'1'}],'M2',schemas.M2,entries);assert.equal(r.output.length,1);assert.equal(r.output[0].PROCEDURE,'ACC')});
+test('further mappings',()=>{assert.equal(mapValue('PROCEDURE_M123','FAST TRACK VULNERABILITY',map,[],1),'ACC');assert.equal(mapValue('DURATION_M3','Between 24 and 36months',map,[],1),'M24T36')});
+test('dataset order',()=>assert.deepEqual(Object.keys(schemas),['M1','M2','M3','M4','M5','M6']));

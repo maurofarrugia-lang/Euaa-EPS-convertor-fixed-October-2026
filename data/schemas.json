@@ -74,7 +74,6 @@
   },
   "M2": {
     "required": [
-      "Lodging of Application-Date",
       "Citizenship",
       "Age",
       "Sex",
@@ -216,6 +215,86 @@
       ]
     ]
   },
+  "M4": {
+    "required": [
+      "Citizenship",
+      "Age",
+      "Gender Cat",
+      "Status of Minor",
+      "Type of Procedure",
+      "Type of Application",
+      "Decision",
+      "CEAS Backlog",
+      "CountOfRefcom Number",
+      "Type of Withdrawal"
+    ],
+    "aliases": {
+      "Sex": "Gender Cat",
+      "Count": "CountOfRefcom Number"
+    },
+    "outputs": [
+      [
+        "CITIZENSHIP",
+        "Citizenship",
+        "CITIZENSHIP"
+      ],
+      [
+        "AGE",
+        "Age",
+        "AGE"
+      ],
+      [
+        "SEX",
+        "Gender Cat",
+        "SEX"
+      ],
+      [
+        "APPLICANT",
+        "Status of Minor",
+        "APPLICANT"
+      ],
+      [
+        "PROCEDURE",
+        "Type of Procedure",
+        "PROCEDURE_M456"
+      ],
+      [
+        "APPLICATION_GEN",
+        "Type of Application",
+        "APPLICATION_GEN_M456"
+      ],
+      [
+        "WITHDRAW",
+        "Decision",
+        "WITHDRAW"
+      ],
+      [
+        "CEAS_BACKLOG",
+        "CEAS Backlog",
+        "CEAS_BACKLOG"
+      ],
+      [
+        "OBS_VALUE",
+        "CountOfRefcom Number",
+        "NUMBER"
+      ],
+      [
+        "DATA_STATUS",
+        null,
+        "EU"
+      ],
+      [
+        "OBS_STATUS",
+        null,
+        ""
+      ],
+      [
+        "COMMENT_OBS",
+        null,
+        ""
+      ]
+    ]
+  },
   "M5": {
     "required": [
       "CitizenShip",
@@ -331,86 +410,6 @@
         "OBS_VALUE",
         "Count",
         "NUMBER"
-      ],
-      [
-        "OBS_STATUS",
-        null,
-        ""
-      ],
-      [
-        "COMMENT_OBS",
-        null,
-        ""
-      ]
-    ]
-  },
-  "M4": {
-    "required": [
-      "Citizenship",
-      "Age",
-      "Gender Cat",
-      "Status of Minor",
-      "Type of Procedure",
-      "Type of Application",
-      "Decision",
-      "CEAS Backlog",
-      "CountOfRefcom Number",
-      "Type of Withdrawal"
-    ],
-    "aliases": {
-      "Sex": "Gender Cat",
-      "Count": "CountOfRefcom Number"
-    },
-    "outputs": [
-      [
-        "CITIZENSHIP",
-        "Citizenship",
-        "CITIZENSHIP"
-      ],
-      [
-        "AGE",
-        "Age",
-        "AGE"
-      ],
-      [
-        "SEX",
-        "Gender Cat",
-        "SEX"
-      ],
-      [
-        "APPLICANT",
-        "Status of Minor",
-        "APPLICANT"
-      ],
-      [
-        "PROCEDURE",
-        "Type of Procedure",
-        "PROCEDURE_M456"
-      ],
-      [
-        "APPLICATION_GEN",
-        "Type of Application",
-        "APPLICATION_GEN_M456"
-      ],
-      [
-        "WITHDRAW",
-        "Decision",
-        "WITHDRAW"
-      ],
-      [
-        "CEAS_BACKLOG",
-        "CEAS Backlog",
-        "CEAS_BACKLOG"
-      ],
-      [
-        "OBS_VALUE",
-        "CountOfRefcom Number",
-        "NUMBER"
-      ],
-      [
-        "DATA_STATUS",
-        null,
-        "EU"
       ],
       [
         "OBS_STATUS",

@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-12-dictionary-aligned",
+  "version": "2026-10-12-dictionary-aligned-1.3.0",
   "source": "EPS Dictionaries.xlsx",
   "entries": [
     {
@@ -3358,8 +3358,8 @@
     },
     {
       "field": "PROCEDURE_M123",
-      "rawValue": "Accelerated procedure",
-      "key": "PROCEDURE_M123|Accelerated procedure",
+      "rawValue": "ACCELERATED PROCEDURE",
+      "key": "PROCEDURE_M123|ACCELERATED PROCEDURE",
       "epsCode": "ACC"
     },
     {
@@ -3406,8 +3406,8 @@
     },
     {
       "field": "PROCEDURE_M456",
-      "rawValue": "Accelerated procedure",
-      "key": "PROCEDURE_M456|Accelerated procedure",
+      "rawValue": "ACCELERATED PROCEDURE",
+      "key": "PROCEDURE_M456|ACCELERATED PROCEDURE",
       "epsCode": "ACC"
     },
     {
@@ -3586,8 +3586,8 @@
     },
     {
       "field": "DURATION_M3",
-      "rawValue": "Between 24 and 36 months",
-      "key": "DURATION_M3|Between 24 and 36 months",
+      "rawValue": "BETWEEN 24 AND 36 MONTHS",
+      "key": "DURATION_M3|BETWEEN 24 AND 36 MONTHS",
       "epsCode": "M24T36"
     },
     {
@@ -3853,6 +3853,60 @@
       "rawValue": "NOT APPLICABLE",
       "key": "DURATION_M5|NOT APPLICABLE",
       "epsCode": "_U"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "ACCELERATED",
+      "key": "PROCEDURE_M123|ACCELERATED",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE_M123|FAST TRACK VULNERABILITY",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "ACCELERATED",
+      "key": "PROCEDURE_M456|ACCELERATED",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE_M456|FAST TRACK VULNERABILITY",
+      "epsCode": "ACC"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "BETWEEN 24 AND 36MONTHS",
+      "key": "DURATION_M3|BETWEEN 24 AND 36MONTHS",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION_M3",
+      "rawValue": "BETWEEN 24 AND 36 MONTH",
+      "key": "DURATION_M3|BETWEEN 24 AND 36 MONTH",
+      "epsCode": "M24T36"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "BETWEEN 24 AND 36 MONTHS",
+      "key": "DURATION_M5|BETWEEN 24 AND 36 MONTHS",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "BETWEEN 24 AND 36MONTHS",
+      "key": "DURATION_M5|BETWEEN 24 AND 36MONTHS",
+      "epsCode": "M_GT24"
+    },
+    {
+      "field": "DURATION_M5",
+      "rawValue": "BETWEEN 24 AND 36 MONTH",
+      "key": "DURATION_M5|BETWEEN 24 AND 36 MONTH",
+      "epsCode": "M_GT24"
     }
   ]
 }

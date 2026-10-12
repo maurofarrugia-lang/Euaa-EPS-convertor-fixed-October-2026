@@ -1,7 +1,7 @@
 import {convertRows,toCsv} from './core.js';
 const q=id=>document.getElementById(id);let schemas,mappings,capacity=40,current={output:[],warnings:[]};
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-Promise.all([fetch('./data/schemas.json?v=1.3.3',{cache:'no-store'}).then(r=>r.json()),fetch('./data/mappings.json?v=1.3.3',{cache:'no-store'}).then(r=>r.json())]).then(([s,m])=>{schemas=s;mappings=m.entries;Object.keys(s).sort((a,b)=>Number(a.slice(1))-Number(b.slice(1))).forEach(k=>q('dataset').add(new Option(k,k)));build();});
+Promise.all([fetch('./data/schemas.json?v=1.3.4',{cache:'no-store'}).then(r=>r.json()),fetch('./data/mappings.json?v=1.3.4',{cache:'no-store'}).then(r=>r.json())]).then(([s,m])=>{schemas=s;mappings=m.entries;Object.keys(s).sort((a,b)=>Number(a.slice(1))-Number(b.slice(1))).forEach(k=>q('dataset').add(new Option(k,k)));build();});
 function schema(){return schemas[q('dataset').value]}
 function matrix(){return [...q('inputTable').tBodies[0].rows].map(tr=>[...tr.querySelectorAll('[contenteditable]')].map(td=>td.textContent.trim()));}
 function rows(){const h=schema().required;return matrix().filter(r=>r.some(Boolean)).map(r=>Object.fromEntries(h.map((x,i)=>[x,r[i]??''])));}

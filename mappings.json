@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-12-final-hotfix-1.3.3",
+  "version": "2026-10-12-fast-track-reg-1.3.4",
   "source": "EPS Dictionaries.xlsx",
   "entries": [
     {
@@ -817,12 +817,6 @@
       "rawValue": "BORDER",
       "key": "PROCEDURE|BORDER",
       "epsCode": "ABP"
-    },
-    {
-      "field": "PROCEDURE",
-      "rawValue": "FAST TRACK VULNERABILITY",
-      "key": "PROCEDURE|FAST TRACK VULNERABILITY",
-      "epsCode": "ACC"
     },
     {
       "field": "PROCEDURE",
@@ -3861,22 +3855,10 @@
       "epsCode": "ACC"
     },
     {
-      "field": "PROCEDURE_M123",
-      "rawValue": "FAST TRACK VULNERABILITY",
-      "key": "PROCEDURE_M123|FAST TRACK VULNERABILITY",
-      "epsCode": "REG"
-    },
-    {
       "field": "PROCEDURE_M456",
       "rawValue": "ACCELERATED",
       "key": "PROCEDURE_M456|ACCELERATED",
       "epsCode": "ACC"
-    },
-    {
-      "field": "PROCEDURE_M456",
-      "rawValue": "FAST TRACK VULNERABILITY",
-      "key": "PROCEDURE_M456|FAST TRACK VULNERABILITY",
-      "epsCode": "REG"
     },
     {
       "field": "DURATION_M3",
@@ -3907,6 +3889,24 @@
       "rawValue": "BETWEEN 24 AND 36 MONTH",
       "key": "DURATION_M5|BETWEEN 24 AND 36 MONTH",
       "epsCode": "M_GT24"
+    },
+    {
+      "field": "PROCEDURE_M123",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE_M123|FAST TRACK VULNERABILITY",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE_M456",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE_M456|FAST TRACK VULNERABILITY",
+      "epsCode": "REG"
+    },
+    {
+      "field": "PROCEDURE",
+      "rawValue": "FAST TRACK VULNERABILITY",
+      "key": "PROCEDURE|FAST TRACK VULNERABILITY",
+      "epsCode": "REG"
     }
   ]
 }

@@ -381,7 +381,6 @@
   },
   "M6": {
     "required": [
-      "Decision Date",
       "Citizineship",
       "Type of Application",
       "Type of closure",

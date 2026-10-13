@@ -5,7 +5,46 @@ export function buildMap(entries){return new Map(entries.map(x=>[normalise(x.key
 export function mapValue(field,value,map,warnings,rowNumber,displayField=field){const raw=normalise(value),key=normalise(field)+"|"+raw;if(raw==="FAST TRACK VULNERABILITY"&&normalise(field).startsWith("PROCEDURE"))return "REG";if(map.has(key))return map.get(key);if(field==="CITIZENSHIP"&&raw.length===2)return raw;warnings.push({row:rowNumber,field:displayField,value:String(value??""),message:"Unmapped value"});return "UNMAPPED: "+String(value??"");}
 export function toNumber(v,warnings,row){const n=Number(v);if(v===""||v==null||!Number.isFinite(n)){warnings.push({row,field:"Count",value:String(v??""),message:"Count is missing or not numeric"});return null;}return n;}
 export function isAdultAge(v){const s=normalise(v);if(/^\d+(?:\.\d+)?$/.test(s))return Number(s)>=18;return /(^|[^0-9])(18-34|35-64|65\+|65 AND OVER)([^0-9]|$)/.test(s)||/^\(3\)|^\(4\)|^\(5\)/.test(s);}
-export function validateMinorAge(row,rowNumber,warnings){const status=normalise(row['Status of Minor']);const ageField=row.Age!==undefined?'Age':'Age Group';const age=row[ageField];if(['UNACCOMPANIED MINOR','ACCOMPANIED MINOR'].includes(status)&&isAdultAge(age))warnings.push({row:rowNumber,field:ageField,value:String(age??''),message:'Age is 18 or over while Status of Minor indicates a minor'});}
+export function validateMinorAge(row,rowNumber,warnings){
+
+  const status = normalise(row['Status of Minor']);
+  const ageField = row.Age !== undefined ? 'Age' : 'Age Group';
+  const age = row[ageField];
+
+  /* Existing rule:
+     Minor status but adult age */
+  if (
+      ['UNACCOMPANIED MINOR','ACCOMPANIED MINOR'].includes(status)
+      && isAdultAge(age)
+  ){
+      warnings.push({
+          row: rowNumber,
+          field: ageField,
+          value: String(age ?? ''),
+          message: 'Age is 18 or over while Status of Minor indicates a minor'
+      });
+  }
+
+  /* New rule:
+     Adult applicant but child age */
+  const isChildAge =
+      /(0-13|14-17)/i.test(String(age ?? '')) ||
+      /^\(1\)/.test(String(age ?? '')) ||
+      /^\(2\)/.test(String(age ?? ''));
+
+  if (
+      ['NOT APPLICABLE','ADULT APPLICANT','_Z']
+          .includes(status)
+      && isChildAge
+  ){
+      warnings.push({
+          row: rowNumber,
+          field: ageField,
+          value: String(age ?? ''),
+          message: 'Applicant is marked as an adult but age category indicates a child'
+      });
+  }
+}
 export function convertRows(rows,dataset,schema,entries){const map=buildMap(entries),warnings=[],output=[];rows.forEach((source,i)=>{const n=i+1,row=canonicaliseRow(source,schema);if(schema.required.every(h=>row[h]===''||row[h]==null))return;validateMinorAge(row,n,warnings);const result={};let valid=true;for(const [name,input,rule] of schema.outputs){if(rule==='NUMBER'){const value=toNumber(row[input],warnings,n);if(value===null)valid=false;result[name]=value??'';}else if(input&&!['EU','EPS','_U',''].includes(rule))result[name]=mapValue(rule,row[input],map,warnings,n,input);else result[name]=rule;}if(valid)output.push(result);});return {output,warnings};}
 export function csvEscape(v){const s=String(v??'');return /[",\n]/.test(s)?'"'+s.replaceAll('"','""')+'"':s;}
 export function toCsv(rows,headers){return [headers.map(csvEscape).join(','),...rows.map(r=>headers.map(h=>csvEscape(r[h])).join(','))].join('\r\n');}
